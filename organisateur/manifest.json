@@ -1,0 +1,14 @@
+{
+  "title": "La dernière ligne droite",
+  "category": "Réseau / Cryptographie",
+  "difficulty": "Intermédiaire",
+  "points": 200,
+  "source": "10.42.0.26",
+  "destination": "198.51.100.77",
+  "session": "a7c9",
+  "fragments": 105,
+  "retransmissions": 7,
+  "packets": 826,
+  "sha256": "079384fe363ea85615d98b84bab6aa5da7c17313b00279d1ff4745656e33eddb",
+  "zip_password": "ESD-Racing-2026"
+}

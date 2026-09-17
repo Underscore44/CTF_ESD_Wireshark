@@ -1,0 +1,9 @@
+﻿source: 10.42.0.26
+destination: 198.51.100.77
+session: a7c9
+key: 0x5a
+domain: telemetry-aero.test
+fragments: 105
+duplicates: 7
+packets: 826
+Flag : ESD{la_derniere_ligne_droite}
