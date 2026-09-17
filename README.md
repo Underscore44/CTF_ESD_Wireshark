@@ -1,4 +1,4 @@
-﻿# La dernière ligne droite
+# Le dernier tour
 
 Challenge Wireshark hors ligne pour ESD Academy. Catégorie Réseau / Cryptographie, difficulté estimée Intermédiaire (200 points).
 
@@ -26,7 +26,7 @@ Le générateur construit une capture synthétique avec Scapy. Il n'envoie aucun
 - `WRITEUP.md` : corrigé détaillé et reproductible.
 - `resoudre.py` : résolution depuis la capture, indépendante du générateur.
 - `verifier.py` : contrôles de l'intégrité et des cas d'erreur.
-- `flag.txt` : chaîne de validation sensible à la casse.
+- `flag.txt` : chaîne de validation sensible à la casse — `ESD{D3rn13r_V1r4g3}`.
 - `manifest.json` : paramètres et empreinte SHA-256.
 - `VALIDATION.md` et `preuves/` : résultats des vérifications.
 
